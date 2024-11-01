@@ -2,6 +2,9 @@
 Just some random dude who codes random stuff
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1277764827439431860)](https://discord.com/users/1277764827439431860)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,haxe,html,css,lua,unity,unreal,blender)](https://discord.com/users/1277764827439431860)
+
 ## Projects
 ### Unreal Projects
 **`Goofy Gunman`** - A (currently unreleased) multiplayer VR shooter game being created in Unreal Engine and being published to App Lab and SideQuest.
