@@ -3,7 +3,13 @@ Just some random kid who codes stuff
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1277764827439431860?showDisplayName=true&idleMessage=I%27m%20currently%20being%20lazy%F0%9F%98%8E)](https://discord.com/users/1277764827439431860)
 
+**I KNOW**
+
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,haxe,html,css,lua,unity,unreal,blender)](https://discord.com/users/1277764827439431860)
+
+**I'M LEARNING**
+
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://discord.com/users/1277764827439431860)
 
 ## Projects
 ### Video Games
