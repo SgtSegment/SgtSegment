@@ -5,7 +5,7 @@ Just some random kid who codes stuff
 
 **I KNOW**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,haxe,html,css,lua,unity,unreal,blender)](https://discord.com/users/1277764827439431860)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,haxe,html,css,lua,unity,unreal,blender,python)](https://discord.com/users/1277764827439431860)
 
 **I'M LEARNING**
 
