@@ -13,10 +13,12 @@ Just some random kid who codes stuff
 
 ## Projects
 
-**Zipped (unrel.)** - Android game I'm currently working on, planned release in Q1, 2026.
+
 
 ## Archived Projects
 Projects listed below are cancelled or not actively maintained.
+
+- [`unattended-gdrive`](https://github.com/SgtSegment/unattended-gdrive/) - A simple Node.JS script I created so I can download Hytale at school.
 
 - [`Twitch Stuff`](https://github.com/SgtSegment/twitch-stuff) - A port of [DougDougs](https://twitch.tv/dougdoug) Twitch god app, ported to NodeJS.
 
